@@ -7,7 +7,7 @@ Padrões para quem está inicianto os estudos de padrões.
 1. Adapter
 1. Composite
 1. Decorator
-1. Factory Model
+1. Factory Method
 1. Observer
 1. Strategy
 1. Template Method

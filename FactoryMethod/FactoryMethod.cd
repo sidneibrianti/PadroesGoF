@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FactoryMethod.Domain.Cliente">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Domain\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.Domain.Titanium" BaseTypeListCollapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Domain\Titanium.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FactoryMethod.Domain.Platinum" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Domain\Platinum.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FactoryMethod.Domain.Comum" BaseTypeListCollapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Domain\Comum.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FactoryMethod.Domain.CartaoCreditoFactory">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Domain\CartaoCreditoFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.Domain.ComumFactory">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\ComumFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.Domain.PlatinumFactory">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\PlatinumFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.Domain.TitaniumFactory">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\TitaniumFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FactoryMethod.Interfaces.ICartaoCredito">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICartaoCredito.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Inter" Size="9" />
+</ClassDiagram>
