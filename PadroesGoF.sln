@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{F8F7423D-83E8-4F8E-B607-D5BA542F71A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{C888C565-CAB1-4440-8095-7C0A263CD06E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{C8A67E11-04E8-4750-A883-61255645442D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{F8F7423D-83E8-4F8E-B607-D5BA542F71A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8F7423D-83E8-4F8E-B607-D5BA542F71A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8F7423D-83E8-4F8E-B607-D5BA542F71A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C888C565-CAB1-4440-8095-7C0A263CD06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C888C565-CAB1-4440-8095-7C0A263CD06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C888C565-CAB1-4440-8095-7C0A263CD06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C888C565-CAB1-4440-8095-7C0A263CD06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A67E11-04E8-4750-A883-61255645442D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A67E11-04E8-4750-A883-61255645442D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A67E11-04E8-4750-A883-61255645442D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A67E11-04E8-4750-A883-61255645442D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
